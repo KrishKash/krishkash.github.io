@@ -110,3 +110,7 @@ At this point, the React app's package.json file includes deployment scripts.
 Deploy the React app to GitHub Pages
 
    `npm run deploy`
+
+Last step is to push everything to GitHub master branch
+
+`git push -u origin master`
