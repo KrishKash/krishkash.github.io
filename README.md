@@ -88,3 +88,25 @@ yarn start
 | [GitHub Pages](https://pages.github.com/) | [Deploying React App on GitHub Pages from GitHub](https://create-react-app.dev/docs/deployment/#github-pages) | [Youtube](https://youtu.be/F8s4Ng-re0E) |
 
 <br />
+
+## Github Hosting steps
+
+Install the gh-pages npm package as a development dependency
+
+`npm install gh-pages --save-dev`
+
+ Add a homepage property to the package.json file
+
+`"homepage": "<https://{username}.github.io/{repo-name>}"`
+
+Add these scripts in the package.json file
+
+- "predeploy": "npm run build",
+- "deploy": "gh-pages -d build",
+- "start": "react-scripts start",
+- "build": "react-scripts build",
+
+At this point, the React app's package.json file includes deployment scripts.
+Deploy the React app to GitHub Pages
+
+   `npm run deploy`
