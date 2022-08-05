@@ -1,11 +1,11 @@
 {
-  "short_name": "Krishna Murari Kashyap",
+  "short_name": "Krishna Kashyap",
   "name": "Krishna Murari Kashyap",
   "icons": [
     {
-      "src": "favicon.png",
-      "sizes": "32x32",
-      "type": "image/png"
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
     },
     {
       "src": "favicon.png",
