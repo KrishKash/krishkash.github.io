@@ -1,8 +1,8 @@
-# My Portfolio
+# [My Profile Website](https://krishkash.github.io/)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
-</p>
+<h1 align="center">👋 < Hi there /> 👋</h1>
+
+Thanks for landing here. Feel free to use this repository as your starting point in developing your own portfolio and host it where ever you are comfortable with. Showcase yourself to the entire community.
 
 <br />
 
@@ -15,13 +15,6 @@
 
 ## Also check [this](https://reactjs.org/docs/create-a-new-react-app.html) out if you are new to react
 
-#### Make sure you have the latest version of both Git and Node on your computer
-
-```
-node --version
-git --version
-```
-
 <br />
 
 # Getting Started
@@ -31,8 +24,9 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone hhttps://github.com/<YOUR GITHUB USERNAME>/kmk-portfolio.git
-cd kmk-portfolio
+git clone https://github.com/<YOUR GITHUB USERNAME>/krishkash.github.io.git
+
+cd krishkash.github.io
 ```
 
 ### Install packages from the root directory
@@ -61,56 +55,28 @@ yarn start
 
 <br />
 
-# Hosting
+# Hosting on Servers
 
-## Netlify
+Follow the below tutorials to host your
 
-| Site   | Docs  | Demo  |
-| :-------------: |:-------------: |:-------------: |
+| Site       | Docs        | Demo  |
+| :------------------: |:------------------: |:----------------: |
 | [Netlify](https://www.netlify.com/) | [3 ways to deploy React apps to Netlify](https://blog.logrocket.com/3-ways-to-deploy-react-apps-to-netlify/) | [Youtube](https://www.youtube.com/watch?v=sGBdp9r2GSg) |
-
-## Firebase
-
-| Site   | Docs  | Demo  |
-| :-------------: |:-------------: |:-------------: |
-| [Firebase](https://firebase.google.com/docs/hosting) | [Deploy a React App with Firebase](https://medium.com/swlh/how-to-deploy-a-react-app-with-firebase-hosting-98063c5bf425) | [Youtube](https://www.youtube.com/watch?v=1wZw7RvXPRU) |
-
-## Heroku
-
-| Site   | Docs  | Demo  |
-| :-------------: |:-------------: |:-------------: |
+| [Firebase](https://firebase.google.com/docs/hosting) | [Deploy a React App with Firebase](https://medium.com/swlh/how-to-deploy-a-react-app-with-firebase-hosting-98063c5bf425) | [Youtube](https://www.youtube.com/watch?v=1wZw7RvXPRU)
 | [Heroku](https://www.heroku.com/) | [Deploying React App on Heroku from GitHub](https://medium.com/make-it-heady/deploying-create-react-app-on-heroku-from-github-49447561f670) | [Youtube](https://www.youtube.com/watch?v=dn4mmfbletg) |
-
-## Github Pages
-
-| Site   | Docs  | Demo  |
-| :-------------: |:-------------: |:-------------: |
 | [GitHub Pages](https://pages.github.com/) | [Deploying React App on GitHub Pages from GitHub](https://create-react-app.dev/docs/deployment/#github-pages) | [Youtube](https://youtu.be/F8s4Ng-re0E) |
+| Github Pages(Additional) | [How to Deploy React App to GitHub Pages](https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/) | - |
 
-<br />
+</br>
 
-## Github Hosting steps
+# 🚀 Reach Me
 
-Install the gh-pages npm package as a development dependency
-
-`npm install gh-pages --save-dev`
-
- Add a homepage property to the package.json file
-
-`"homepage": "<https://{username}.github.io/{repo-name>}"`
-
-Add these scripts in the package.json file
-
-- "predeploy": "npm run build",
-- "deploy": "gh-pages -d build",
-- "start": "react-scripts start",
-- "build": "react-scripts build",
-
-At this point, the React app's package.json file includes deployment scripts.
-Deploy the React app to GitHub Pages
-
-   `npm run deploy`
-
-Last step is to push everything to GitHub master branch
-
-`git push -u origin master`
+<a href="mailto:kmurari103@gmail.com" target="_blank">
+   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/gamil.png" width="30px" height="30px"/>
+</a>&nbsp&nbsp
+<a href="https://www.linkedin.com/in/krishna-murari-kashyap-689864148/" target="_blank">
+   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/linkedin.png" width="30px" height="30px"/>
+</a> &nbsp &nbsp
+<a href="https://twitter.com/its_me_kmk" target="_blank">
+   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/twitter.png" width="30px" height="30px"/>
+</a>
