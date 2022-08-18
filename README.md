@@ -72,11 +72,11 @@ Follow the below tutorials to host your
 # 🚀 Reach Me
 
 <a href="mailto:kmurari103@gmail.com" target="_blank">
-   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/gamil.png" width="30px" height="30px"/>
+   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/gmail.png" width="40px" height="40px"/>
 </a>&nbsp&nbsp
 <a href="https://www.linkedin.com/in/krishna-murari-kashyap-689864148/" target="_blank">
-   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/linkedin.png" width="30px" height="30px"/>
+   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/linkedin.png" width="40px" height="40px"/>
 </a> &nbsp &nbsp
 <a href="https://twitter.com/its_me_kmk" target="_blank">
-   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/twitter.png" width="30px" height="30px"/>
+   <img  src="https://github.com/KrishKash/krishkash.github.io/blob/master/src/assets/images/social/twitter.png" width="40px" height="40px"/>
 </a>
