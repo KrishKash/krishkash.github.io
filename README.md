@@ -32,25 +32,13 @@ cd krishkash.github.io
 ### Install packages from the root directory
 
 ```
-npm install
-```
-
-#### or
-
-```
-yarn install
+npm install           or               yarn install
 ```
 
 ### Start the development server
 
 ```
-npm start
-```
-
-#### or
-
-```
-yarn start
+npm start             or               yarn start
 ```
 
 <br />
