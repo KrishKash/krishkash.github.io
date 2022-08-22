@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b02f7dc3.css",
-    "main.js": "/static/js/main.882819bd.js",
+    "main.js": "/static/js/main.0641ddd3.js",
     "static/media/Krishna Murari Kashyap.pdf": "/static/media/Krishna Murari Kashyap.5b123ec1902af9290a0d.pdf",
     "static/media/profile.png": "/static/media/profile.1726d2a8eee6eeddc27f.png",
     "static/media/expBlue.svg": "/static/media/expBlue.fc91e37cff3bb85614e4ecbe7aed15f4.svg",
@@ -31,10 +31,10 @@
     "static/media/css.svg": "/static/media/css.afb434f6d712d3e4ff53be8da4d9876a.svg",
     "static/media/html.svg": "/static/media/html.75bdf0b057c088503944680032ea6347.svg",
     "main.b02f7dc3.css.map": "/static/css/main.b02f7dc3.css.map",
-    "main.882819bd.js.map": "/static/js/main.882819bd.js.map"
+    "main.0641ddd3.js.map": "/static/js/main.0641ddd3.js.map"
   },
   "entrypoints": [
     "static/css/main.b02f7dc3.css",
-    "static/js/main.882819bd.js"
+    "static/js/main.0641ddd3.js"
   ]
 }
